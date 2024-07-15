@@ -2,6 +2,8 @@ from os import system
 import random
 system("cls")
 
+#Link Github: https://github.com/BrayanGLeo/Examen-Final/blob/main/GODOY_BRAYAN_FPY1101-003D.py
+
 trabajadores = [["Juan Pérez"],["María García"],["Carlos López"],["Ana Martínez"],["Pedro Rodríguez"],
                 ["Laura Hernández"],["Miguel Sánchez"],["Isabel Gómez"],["Fransisco Díaz"],["Elena Fernández"]]
 
